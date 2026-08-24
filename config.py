@@ -1,0 +1,3 @@
+# The only two things you must fill in:
+EMAIL = "23f2005361@ds.study.iitm.ac.in"
+AIPIPE_TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjIzZjIwMDUzNjFAZHMuc3R1ZHkuaWl0bS5hYy5pbiIsImlhdCI6MTc4NzU3OTgwMSwiaXNzIjoiaHR0cHM6Ly9haXBpcGUub3JnIiwiYXVkIjoiYWlwaXBlLWFwaSIsImV4cCI6MTc4ODE4NDYwMX0.FciqIcMj-nGEPB3pSDIj4BoIAm3LEBhQVFX_ipbZ6Y8"
